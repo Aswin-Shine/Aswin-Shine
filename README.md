@@ -1,12 +1,7 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=220&section=header&text=Hi,%20I'm%20Aswin%20Shine%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%26%20MLOps%20Engineer%20%7C%20AWS%20EKS%20%C2%B7%20Terraform%20%C2%B7%20GitOps&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+![Profile Banner](./assets/Profile-Banner.gif) 
 </p>
 
-<p align="center">
-📍 Jaipur, Rajasthan &nbsp;|&nbsp;
-📧 ashwinsh.91@gmail.com &nbsp;|&nbsp;
-📱 +91 9636983667
-</p>
 
 <p align="center">
 <a href="https://github.com/Aswin-Shine"><img src="https://img.shields.io/badge/GitHub-Aswin--Shine-181717?style=flat&logo=github"></a>
