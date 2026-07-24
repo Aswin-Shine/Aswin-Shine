@@ -2,12 +2,6 @@
   <img src="./assets/Profile-Banner.gif" alt="Profile Banner" width="100%"/>
 </p>
 
-
-<p align="center">
-<a href="https://github.com/Aswin-Shine"><img src="https://img.shields.io/badge/GitHub-2b2b2b?style=flat-square&logo=github&logoColor=white"></a>
-<a href="https://linkedin.com/in/aswinshine"><img src="https://img.shields.io/badge/LinkedIn-2b2b2b?style=flat-square&logo=linkedin&logoColor=white"></a>
-</p>
-
 ---
 
 ## About Me
