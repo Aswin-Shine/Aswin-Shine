@@ -1,5 +1,5 @@
 <div align="center">
-  ![Profile Banner](./assets/Profile-Banner.gif) 
+  ![Demo](./assets/Profile-Banner.gif) 
 </div>
 
 
