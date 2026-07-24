@@ -22,10 +22,10 @@ Currently deepening my System Design and scalable-architecture skills.
 
 ---
 
-### 🎓 Education
-
-**Master of Computer Applications (MCA)** — Amity University, Noida, Uttar Pradesh (2022–2024)
-**Bachelor of Computer Applications (BCA)**
+### 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Aswin-Shine&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Aswin-Shine&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aswin-Shine&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
