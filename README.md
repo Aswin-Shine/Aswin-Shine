@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Aswin Shine 👋</h1>
-<h3 align="center">DevOps & MLOps Engineer | AWS EKS · Terraform · GitOps | Ex-Frontend Engineer</h3>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=220&section=header&text=Hi,%20I'm%20Aswin%20Shine%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%26%20MLOps%20Engineer%20%7C%20AWS%20EKS%20%C2%B7%20Terraform%20%C2%B7%20GitOps&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+</p>
 
 <p align="center">
 📍 Jaipur, Rajasthan &nbsp;|&nbsp;
@@ -23,9 +24,15 @@ Currently deepening my System Design and scalable-architecture skills.
 ---
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Aswin-Shine&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Aswin-Shine&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aswin-Shine&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<p align="center">
+<img src="https://github-readme-stats.shion.dev/api?username=Aswin-Shine&theme=merko&hide_border=false&include_all_commits=true&count_private=false" height="165"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Aswin-Shine&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="165"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=Aswin-Shine&theme=merko&hide_border=false" width="65%"/>
+</p>
 
 ---
 
