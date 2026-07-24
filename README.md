@@ -1,6 +1,6 @@
-<p align="center">
-![Profile Banner](./assets/Profile-Banner.gif) 
-</p>
+<div align="center">
+  ![Profile Banner](./assets/Profile-Banner.gif) 
+</div>
 
 
 <p align="center">
